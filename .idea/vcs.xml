@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaGuide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyStudy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UnblockNeteaseMusic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/commons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/微信小程序" vcs="Git" />
+  </component>
+</project>
