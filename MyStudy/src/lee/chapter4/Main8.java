@@ -16,5 +16,4 @@ public class Main8 {
             System.out.println(key+"有"+value);
         });
     }
-
 }
