@@ -1,9 +1,7 @@
 package lee.chapter4;
 
 import java.util.*;
-import java.util.concurrent.CopyOnWriteArraySet;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 public class Main10 {
     public static void main(String[] args) {
